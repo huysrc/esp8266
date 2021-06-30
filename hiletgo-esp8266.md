@@ -2,6 +2,7 @@
 # HiLetgo NodeMCU LUA ESP8266 CP2102 ESP-12E Internet Wifi
 
 ![HiLetgo ESP8266](https://components101.com/asset/sites/default/files/component_pin/NodeMCU-ESP8266-Pinout.jpg)
+!(https://images-na.ssl-images-amazon.com/images/I/61GwRCoPxlL._AC_SX450_.jpg)
 
 - **Brand Name**:  HiLetgo
 - **UPC**: 703681358704

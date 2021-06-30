@@ -31,6 +31,7 @@
 http://www.nodemcu.com/index_en.html
 
 ![HiLetgo ESP8266 - Pins](https://hacksterio.s3.amazonaws.com/uploads/attachments/391686/nodemcu_pins_q262Tjmdhb.png)
+![HiLetgo ESP8266 - Pins](https://components101.com/asset/sites/default/files/component_pin/NodeMCU-ESP8266-Pinout.jpg)
 
 ## Firmware link:
 https://github.com/nodemcu/nodemcu-firmware

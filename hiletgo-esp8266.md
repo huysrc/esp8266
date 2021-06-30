@@ -35,6 +35,9 @@ http://www.nodemcu.com/index_en.html
 ## Firmware link:
 https://github.com/nodemcu/nodemcu-firmware
 
+## USB Driver:
+https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers
+
 ## Note:
 Please contact us if you need the driver or meet any issue when using. We provide 100% satisfication service for customers.
 http://www.hiletgo.com/ProductDetail/1906570.html

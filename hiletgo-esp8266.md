@@ -1,10 +1,11 @@
 
 # HiLetgo NodeMCU LUA ESP8266 CP2102 ESP-12E Internet Wifi
 
+![HiLetgo ESP8266](https://img-for-hk.wds168.cn/comdata/51404/product/20180606144500359D1F0A64262E1C_b.jpg)
 
-- Brand Name:  HiLetgo
-- UPC :703681358704
-- Module: 3-01-0268
+- **Brand Name**:  HiLetgo
+- **UPC**:703681358704
+- **Module**: 3-01-0268
 
 
 ## Instruction & Steps of How to use:

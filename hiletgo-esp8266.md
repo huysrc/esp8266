@@ -1,10 +1,10 @@
 
-# HiLetgo NodeMCU LUA ESP8266 CP2102 ESP-12E Internet Wifi Carte de développement Open Source Serial module sans fil Fonctionne parfaitement avec Arduino IDE/Micropython
+# HiLetgo NodeMCU LUA ESP8266 CP2102 ESP-12E Internet Wifi
 
 
-## Brand Name:  HiLetgo
-## UPC :703681358704
-## Module: 3-01-0268
+- Brand Name:  HiLetgo
+- UPC :703681358704
+- Module: 3-01-0268
 
 
 ## Instruction & Steps of How to use:

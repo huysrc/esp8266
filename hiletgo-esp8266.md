@@ -1,13 +1,13 @@
 
-#HiLetgo NodeMCU LUA ESP8266 CP2102 ESP-12E Internet Wifi Carte de développement Open Source Serial module sans fil Fonctionne parfaitement avec Arduino IDE/Micropython
+# HiLetgo NodeMCU LUA ESP8266 CP2102 ESP-12E Internet Wifi Carte de développement Open Source Serial module sans fil Fonctionne parfaitement avec Arduino IDE/Micropython
 
 
-Brand Name:  HiLetgo
-UPC :703681358704
-Module: 3-01-0268
+## Brand Name:  HiLetgo
+## UPC :703681358704
+## Module: 3-01-0268
 
 
-Instruction & Steps of How to use:
+## Instruction & Steps of How to use:
 1. Download the Arduino IDE, the latest version.
 2. Install the IDE
 3. Set up your Arduino IDE as: Go to File->Preferences and copy the URL below to get the ESP board manager extensions:
@@ -27,10 +27,10 @@ Instruction & Steps of How to use:
 7. In Arduino IDE, look for the old fashioned Blink program. Load, compile and upload.
 8. Go to FILE> EXAMPLES> ESP8266> BLINK, it will start blinking.
 
-Data download access to the website:
+## Data download access to the website:
 http://www.nodemcu.com/index_en.html
 
-Firmware link:
+## Firmware link:
 https://github.com/nodemcu/nodemcu-firmware
 
 Note: Please contact us if you need the driver or meet any issue when using. We provide 100% satisfication service for customers.
